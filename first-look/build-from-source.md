@@ -28,7 +28,7 @@ Resolving deltas: 100% (136733/136733), done.
 `/home/cass/spark2/spark`
 
 [cass@compile spark]$ `build/mvn -DskipTests clean package` <br>
-`### build log/output is published as a sperate file on this github location ###`
+`### build log/output is published as a sperate file on this github location ###` <br>
 https://github.com/sarma1807/ApacheSpark2.x/blob/master/first-look/build-from-source-BuildOutput.md
 
 #### Build process took nearly 15 minutes.
