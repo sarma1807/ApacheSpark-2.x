@@ -1,6 +1,6 @@
 ## Apache Spark 2.0 Build From Source Code 20-May-2016
 
-[cass@compile spark2]$ `date` <br>
+[cass@compile ~]$ `date` <br>
 `Fri May 20 12:22:02 EDT 2016`
 
 [cass@compile ~]$ `mkdir spark2/` <br>
